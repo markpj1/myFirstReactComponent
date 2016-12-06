@@ -1,2 +1,3 @@
-# myFirstReactComponent
-React Fundamentals Course by Tyler McGinnis
+# Github Battle
+## React Fundamentals Course by: Tyler McGinnis
+
