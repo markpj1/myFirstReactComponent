@@ -3,6 +3,12 @@ var USER_DATA = {
   userName: 'markpj1',
   image: 'https://www.gravatar.com/avatar/75d83b844d6d4677effd78eec681c6ee?d=404&s=200'
 }
+//FIRST
+//Focused
+//Independent
+//Reusable
+//Small
+//Testable
 
 var React = require('react');
 var ReactDOM = require('react-dom');
